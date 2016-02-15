@@ -6,7 +6,7 @@ import numpy
 
 from .. import ace
 
-numpy.random.seed(9287349087)
+numpy.random.seed(87349087)
 
 def build_sample_ace_problem_wang04(N=100):
     """
